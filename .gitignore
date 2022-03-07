@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+docs/figures/figures-integrated/site-kahnawake*
+docs/Beauchesne_el_al_2022_TC-CEA.pdf
